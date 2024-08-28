@@ -6,8 +6,7 @@ public:
 
 for(int i = 0; i<nums.size(); i++){
     local_max = max(nums[i], nums[i]+ local_max);
-    if(local_max>global_max)
-    global_max = local_max;
+    global_max = max(local_max, global_max);
 }  
  return global_max;
 }
