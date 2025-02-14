@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tech-vishal-raina/coding/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-vishal-raina/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tech-vishal-raina/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/tech-vishal-raina/coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
