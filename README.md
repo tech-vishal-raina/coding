@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tech-vishal-raina/coding/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/tech-vishal-raina/coding/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tech-vishal-raina/coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/tech-vishal-raina/coding/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tech-vishal-raina/coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tech-vishal-raina/coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tech-vishal-raina/coding/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tech-vishal-raina/coding/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/tech-vishal-raina/coding/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/tech-vishal-raina/coding/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/tech-vishal-raina/coding/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/tech-vishal-raina/coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tech-vishal-raina/coding/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -65,10 +68,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tech-vishal-raina/coding/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tech-vishal-raina/coding/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/tech-vishal-raina/coding/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tech-vishal-raina/coding/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tech-vishal-raina/coding/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tech-vishal-raina/coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
